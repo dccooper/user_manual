@@ -39,14 +39,17 @@ If I respect you as a colleague - and you respect me - please be frank and hones
 While I may not always agree with your point of view, I am commited to hearing you out and disscussing it.
 
 #### From me to you
+My overarching goal with providing you feedback is to help you more for effective - not to attack you personally, or make you feel foolish. When I give feedback, I try to do 3 things: 
+1. **Make sure you're ready to hear it**  
+I will ask you if I can provide you feedback and try to make sure I give it as soon as I can after I see a opportunity that warrants it.
+2. **Focus on behavior**  
+I will tyr and frame it in the form of "when you do x, here's what happens." If it's good, I'll follow it up with thank you. If it's bad, I'll ask you to try and do it differently next time. Either way, if we need to talk about it more, we can talk about it in our one-on-ones.
 
 You can find out more about how I try to give feedback and why [here](https://www.manager-tools.com/2005/07/giving-effective-feedback
-).
-
-If I don't provide you feedback this way - or the way I'm doing it isn't helpful to you - please call me out on it. (See Above)
+). If I don't provide you feedback this way - or the way I'm doing it isn't helpful to you - please call me out on it. (See Above)
 
 ### Professional Development
-I want you to succeed and so I want to know what you want to do and where you want to go in your career. I've gotten where I have because people have helped me, so it's only right to return the favor. 
+I want you to succeed and so I want to know what you want to do and where you want to go in your career. I commit to helping you as much as I can to help you get where you want to go - even if it's to go work for someone else. I've gotten where I have because people have helped me, so it's only right to return the favor. 
 
 ### Personal Space
 If someone is making you uncomfortable at work, please let me know. Work is not a place where anyone should feel harrassed, discriminated against, or otherwise uncomfortable. (I've been there myself. Pounding Tums like candy before you walk in the door isn't fun.) 
