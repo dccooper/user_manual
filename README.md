@@ -14,13 +14,23 @@ In general, I like to adhere to the "No Surprises Rule" for both me and you. If 
 **Heirarchy of how important/urgent it is**  
 *From Most to least*: Face to Face > Call > Text > Email.
 
-### Trust
+### Working together
+#### Trust
 Unless this is your first or second job ever, my default assumption is that you're an adult and I can trust you. From experience I know that this is not always the case, but I try to give you the benefit of the doubt. It takes a lot to break my trust - but goofing something up time and time again or delivering subpar product is a good way to do it. If you think you've lost my trust, let's talk about it. I'll be honest and I'll commit to work with you to give you specific guidance on how we can fix things.
 
-I also take your trust in me very seriously. It's important for me that you trust and respect me. One of the ways I'll know, is if you're open and honest with me. (See Feedback > From you to me)
+I also take your trust in me very seriously. It's important for me that you trust and respect me. One of the ways I'll know, is if you're open and honest with me. (See Feedback > From you to me)  
+#### Intiative
+Again from my default assumption of you as an adult, I expect you to take initative and try to solve problems and get answers on your own first. If you haven't, I recommend taking the course [Power Searching with Google](http://www.powersearchingwithgoogle.com/). A lot of times, being perceived as "smart" is really "just know ing how to use Google really well." If you try and fail, that's fine. I do that a lot myself. Come back and let's see if we can figure something out together. 
 
 ### One-on-ones
-I really like one-on-ones. I think it's the [most important thing](https://www.manager-tools.com/.../the-single-most-effective-management-tool-part-1) I can do with you as a manager. 
+I really like one-on-ones. I think it's the [most important thing](https://www.manager-tools.com/.../the-single-most-effective-management-tool-part-1) I can do with you as a manager. I like to do them in 30 min chunks, weekely or at the least every two weeks.  
+A typical one-on-one will go like this: 
+* **10 mins - Your time**  
+Talk about whatever you like. Important issues, reporting on projects, things you need help with - it's your choice.
+* **10 mins - My time**  
+I'll usually want to know about the status of projects, problems, open loops or anything I expect to get asked about by *my* boss.
+* **10 mins - Our time**  
+This is where we put our heads together and discuss major issues, the team, your professional development or anything else we can work on together.
 
 ### Feedback
 #### From you to me
@@ -41,4 +51,4 @@ I want you to succeed and so I want to know what you want to do and where you wa
 ### Personal Space
 If someone is making you uncomfortable at work, please let me know. Work is not a place where anyone should feel harrassed, discriminated against, or otherwise uncomfortable. (I've been there myself. Pounding Tums like candy before you walk in the door isn't fun.) 
 
-And if that person is somehow me, **PLEASE PLEASE** let me know - it is certainly not my intention to amke anyone feel uncomfortable. So if I have goofed up, I need to fix my behavior and make it right with you. (And if you don't feel comfortable doing that, I respect that too.)
+And if that person is somehow me, **PLEASE PLEASE** let me know - it is certainly not my intention to make anyone feel uncomfortable. So if I have goofed up, I need to fix my behavior and make it right with you. (And if you don't feel comfortable doing that, I respect that too.)
