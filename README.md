@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My Guide on Collaborating with Dave
 
-You can use the [editor on GitHub](https://github.com/dccooper/user_manual/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Inspired by this post on [a new document for the modern manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) I thought putitng this together would be helpful for both me and you. For me, it allows me to self relfect, be critical and be honest with myself about how I work. For you, I hope this document is helpful by being explicit about how I think and work. A lot of things at work tend to go unspoken and I think it would be better if people are more clear, honest and upfront - rather than let people try to puzzle things out on their own. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> The goal of a user guide is to set blindingly clear expectations on how to collaborate without extra second guessing.
 
-### Markdown
+My hope is that this will help us get to know each other faster, work better and have a stronger relationship. I'm also commited to keeping this a living document that I'll update based on feedback from you and others as to how I can be more effective.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Communication
 
-```markdown
-Syntax highlighted code block
+### Reporting
 
-# Header 1
-## Header 2
-### Header 3
+### One-on-ones
 
-- Bulleted
-- List
+### Feedback
+#### From you to me
+If I respect you as a colleague - and you respect me - please be frank and honest with me. I'm an adult and I'm not going to get upset of you point out I did something wrong or that upset you. I want to know these things. How else will I find out I goofed if someone doesn't point it out to me?! 
+While I may not always agree with your point of view, I am commited to hearing you out and disscussing it.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dccooper/user_manual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### From me to you
