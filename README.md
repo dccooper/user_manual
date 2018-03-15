@@ -11,7 +11,7 @@ I also hope I can live up to what I write here. I'm human, I goof up and don't a
 ### Communication
 In general, I like to adhere to the "No Surprises Rule" for both me and you. If you think something is going badly or will go bad, please let me know right away. If something is wrong, if you or someone else goofed up - let me know, rather than find out on my own. If you give me the heads up, chances are we can fix it before it's a problem.
 
-**Heirarchy of how important/urgent it is**
+**Heirarchy of how important/urgent it is**  
 *From Most to least*: Face to Face > Call > Text > Email.
 
 ### Trust
