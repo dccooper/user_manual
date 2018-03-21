@@ -1,6 +1,8 @@
 ## Welcome to My Guide on Collaborating with Dave
 
-Inspired by this post on [a new document for the modern manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/)  I thought putting this together would be helpful for both me and you. For me, it allows me to self reflect, be critical and be honest with myself about how I work. For you, I hope this document is helpful by being explicit about how I think and work. A lot of things between professional colleagues tend to go unspoken and I think it would be better if people are clearer, honest and upfront - rather than let people try to puzzle things out on their own. 
+Inspired by this post on [a new document for the modern manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/)  I thought putting this together would be helpful for both me and you. A lot of things between professional colleagues tend to go unspoken and I think it would be better if people are clearer, honest and upfront - rather than let people try to puzzle things out on their own. So I decided that writing up this guide could help us be clearer with each other and start off our working relationship ina better place. 
+
+For me, this guide allows me to self reflect, be critical and be honest with myself about how I work. For you, I hope this document is helpful by being explicit about how I think and work, and setting your expectations of the kinds of behavior you can expect from me. 
 
 > The goal of a user guide is to set blindingly clear expectations on how to collaborate without extra second guessing.
 
@@ -16,9 +18,11 @@ In general, I like to adhere to the "No Surprises Rule" for both me and you. If 
 
 ### Working together
 #### Trust
-Unless this is your first or second job ever, my default assumption is that you're an adult and I can trust you. From experience I know that this is not always the case, but I try to give you the benefit of the doubt. It takes a lot to break my trust - but goofing something up time and time again or delivering subpar product is a good way to do it. If you think you've lost my trust, let's talk about it. I'll be honest and I'll commit to work with you to give you specific guidance on how we can fix things.
+Unless this is your first or second job ever, my default assumption is that you're an adult and I can trust you. From experience I know that this is not always the case, but I try to give you the benefit of the doubt. I'm not going to micromange you. I would rather you send something out you think is ready to go, than have you wait until I review it. (Unless you need to CYA on something, then by all means...)
 
-I also take your trust in me very seriously. It's important for me that you trust and respect me. One of the ways I'll know, is if you're open and honest with me. (See Feedback > From you to me)  
+It takes a lot to break my trust - but goofing something up time and time again or delivering subpar product is a good way to do it. If you think you've lost my trust, let's talk about it. I'll be honest and can commit to work with you to give you specific guidance on how we can fix things if that's what you want.
+
+I also take your trust in me very seriously. It's important for me that you trust and respect me. One of the ways I'll know, is if you're open and honest with me. (See Feedback > From you to me) 
 #### Initiative 
 Again from my default assumption of you as an adult, I expect you to take initiative and try to solve problems and get answers on your own first. If you haven't, I recommend taking the course [Power Searching with Google](http://www.powersearchingwithgoogle.com/). A lot of times, being perceived as "smart" is really "just knowing how to use Google really well." If you try and fail, that's fine. I do that a lot myself. Come back and let's see if we can figure something out together. 
 
@@ -54,4 +58,4 @@ I want you to succeed and so I want to know what you want to do and where you wa
 ### Personal Space
 If someone is making you uncomfortable at work, please let me know. Work is not a place where anyone should feel harassed, discriminated against, or otherwise uncomfortable. (I've been there myself. Pounding Tums like candy before you walk in the door isn't fun.) 
 
-And if that person is somehow me, **PLEASE PLEASE** let me know - it is certainly not my intention to make anyone feel uncomfortable. So if I have goofed up, I need to fix my behavior and make it right with you. (And if you don't feel comfortable doing that, I respect that too.)
+And if that person is somehow me, **PLEASE PLEASE** let me know - it is certainly not my intention to make anyone feel uncomfortable. So if I have made a serious mistake, I need to fix my behavior and make it right with you. (And if you don't feel comfortable doing that, I respect that too. Please go to HR or another manager with whom you feel comfortable. I won't be upset or hold it against you. I'd rather focus on getting the problem resolved.)
