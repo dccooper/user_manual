@@ -1,6 +1,6 @@
 ## Welcome to My Guide on Collaborating with Dave
 
-Inspired by this post on [a new document for the modern manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/)  I thought putting this together would be helpful for both me and you. A lot of things between professional colleagues tend to go unspoken and I think it would be better if people are clearer, honest and upfront - rather than let people try to puzzle things out on their own. So I decided that writing up this guide could help us be clearer with each other and start off our working relationship ina better place. 
+Inspired by this post on [a new document for the modern manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/)  I thought putting this together would be helpful for both me and you. A lot of things between professional colleagues tend to go unspoken and I think it would be better if people are clearer, honest and upfront - rather than let people try to puzzle things out on their own. So I decided that writing up this guide could help us be clearer with each other and start off our working relationship in a better place. 
 
 For me, this guide allows me to self reflect, be critical and be honest with myself about how I work. For you, I hope this document is helpful by being explicit about how I think and work, and setting your expectations of the kinds of behavior you can expect from me. 
 
