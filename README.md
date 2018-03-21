@@ -43,11 +43,11 @@ If I respect you as a colleague - and you respect me - please be frank and hones
 While I may not always agree with your point of view, I am committed to hearing you out and discussing it.  
 
 #### From me to you
-My overarching goal with providing you feedback is to help you more for effective - not to attack you personally, or make you feel foolish. When I give feedback, I try to do 3 things: 
+My overarching goal with providing you feedback is to help you be more effective - not to attack you personally, or make you feel foolish. When I give feedback, I try to do 3 things: 
 1. **Make sure you're ready to hear it**  
 I will ask you if I can provide you feedback and try to make sure I give it as soon as I can after I see a opportunity that warrants it.
 2. **Focus on behavior**  
-I will try and frame it in the form of "when you do x, here's what happens." If it's good, I'll follow it up with thank you. If it's bad, I'll ask you to try and do it differently next time. Either way, if we need to talk about it more, we can talk about it in our one-on-ones.
+I will try and frame it in the form of "when you do x, here's what happens." If it's good, I'll follow it up with thank you. If it's bad, I'll ask you to try and do it differently next time. Either way, if we need to talk about it more, we can talk about it in our one-on-ones or a side meeting.
 
 You can find out more about how I try to give feedback and why [here](https://www.manager-tools.com/2005/07/giving-effective-feedback
 ). If I don't provide you feedback this way - or the way I'm doing it isn't helpful to you - please call me out on it. (See above on Feedback from you to me.)
